@@ -28,12 +28,12 @@
 Intro</h5>
 
 <p><ul>
-<l1>Apil Chand</l1>
-<l2>#writer</l2>
-<l3>#future_Engineer_WRCian</l3>
-<l4>Address: kanchanpur,Nepal</l4>
-<l5>contact: 9810623194,9865701163</l5>
-<l6>Email: ac.apil00chand@gmail.com</l6>
+<li>Apil Chand</li>
+<li>#writer</li>
+<li>#future_Engineer_WRCian</li>
+<li>Address: kanchanpur,Nepal</li>
+<li>contact: 9810623194,9865701163</li>
+<li>Email: ac.apil00chand@gmail.com</li>
 	</ul>
 </p>
 
