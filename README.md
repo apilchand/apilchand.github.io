@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 
   <head>
@@ -12,7 +10,7 @@
 
   </head>
 
-  <body>  	
+  <body>    
 
 <div class="box">
 
@@ -34,19 +32,16 @@ Intro</h5>
 <li>Address: kanchanpur,Nepal</li>
 <li>contact: 9810623194,9865701163</li>
 <li>Email: ac.apil00chand@gmail.com</li>
-	</ul>
+  </ul>
 </p>
 
 <ul>
 
-<li><a href="http://www.facebook.com/apil.chand.5"> FACEBOOK<i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+<li><a href="http://www.facebook.com/apil.chand.5"> Facebook</a></li>
 
-<li><a href="http://www.twitter.com/@apil_chand">TWITTER<i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-
+<li><a href="http://www.twitter.com/@apil_chand">Twitter</a></li>
+<center><b><i> MAINTENANCE IS ON PROGRESS</i></b></center>
 </ul>
-<P>
-	<b><h2>Maintenance is in progress.<h2></b>
-	</p>
 </div>
 
 <div style="display: none;" class="abc">
@@ -55,6 +50,138 @@ Intro</h5>
 
 </div>
 
-	</body>
+  </body>
 
 </html>
+
+
+
+<style type="text/css">
+
+	body{
+
+  margin: 0;
+
+  padding: 0;
+
+  background: url(aa.jpg) no-repeat;
+
+  background-size: cover;
+
+}
+
+.box{
+
+  width: 450px;
+
+  background: rgba(0, 0, 0, 0.4);
+
+  padding: 40px;
+
+  text-align: center;
+
+  margin: auto;
+
+  margin-top: 5%;
+
+  color: white;
+
+  font-family: 'Century Gothic',sans-serif;
+
+}
+
+.box-img{
+
+  border-radius: 50%;
+
+  width: 200px;
+
+  height: 200px;
+
+}
+
+.box h1{
+
+  font-size: 40px;
+
+  letter-spacing: 4px;
+
+  font-weight: 100;
+
+}
+
+.box h5{
+
+  font-size: 20px;
+
+  letter-spacing: 3px;
+
+  font-weight: 100;
+
+}
+
+.box p{
+
+  text-align: justify;
+
+}
+
+ul{
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+.box li{
+
+  display: inline-block;
+
+  margin: 6px;
+
+  list-style: none;
+
+}
+
+.box li a{
+
+  color: white;
+
+  text-decoration: none;
+
+  font-size: 60px;
+
+  transition: all ease-in-out 250ms;
+
+}
+
+.box li a:hover{
+
+  color: green;
+
+}
+
+.abc{
+
+	float: right;
+
+	color: red;
+
+}
+
+.abc a{
+
+	float: right;
+
+	color: red;
+
+}
+
+
+
+</style>
+
+</html>
+
+
