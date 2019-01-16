@@ -34,6 +34,7 @@ Intro</h5>
 <l4>Address: kanchanpur,Nepal</l4>
 <l5>contact: 9810623194,9865701163</l5>
 <l6>Email: ac.apil00chand@gmail.com</l6>
+	</ul>
 </p>
 
 <ul>
